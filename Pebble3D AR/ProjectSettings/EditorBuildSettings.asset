@@ -15,8 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/UltimakerS3.unity
     guid: c851ed602dd3717498368423165911e5
   - enabled: 1
-    path: Assets/Scenes/UltimakerS5 Old.unity
-    guid: f3b14516a1e2dbe44ad7874752445818
+    path: Assets/Scenes/UltimakerS5.unity
+    guid: 83e9b393ea90fe549a6f8fe9f4beb4b0
   - enabled: 1
     path: Assets/Scenes/Raise3D N2.unity
     guid: d195e71dc552a18449149e7c25b9f47d
