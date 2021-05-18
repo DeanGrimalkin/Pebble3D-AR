@@ -49,6 +49,11 @@ public class UIScript : MonoBehaviour
         SceneManager.LoadScene("UltimakerS5");
     }
 
+    public void LoadUltimakerS5C()
+    {
+        SceneManager.LoadScene("UltimakerS5 C");
+    }
+
     public void LoadN2()
     {
         SceneManager.LoadScene("Raise3D N2");
