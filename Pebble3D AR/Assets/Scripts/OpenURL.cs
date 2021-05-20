@@ -30,6 +30,16 @@ public class OpenURL : MonoBehaviour
         Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011682179-ER31-Print-core-heater-error");
     }
 
+    public void OpenER34Link()
+    {
+        Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011575140-ER34-Print-head-communication-error");
+    }
+
+    public void OpenER37Link()
+    {
+        Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011682379-ER37-Print-head-sensor-error");
+    }
+
     public void OpenER39Link()
     {
         Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360012116599-ER39-Incorrect-print-temperature-specified");
@@ -47,6 +57,16 @@ public class OpenURL : MonoBehaviour
     public void OpenER44Link()
     {
         Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011575840-ER44-Unable-to-download-firmware-due-to-lack-of-space-on-printer");
+    }
+
+    public void OpenER67Link()
+    {
+        Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360012705840-ER67-Dehumidifier-is-not-working-correctly");
+    }
+
+    public void OpenER80Link()
+    {
+        Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011706279-ER80-Expected-Air-Manager-is-missing");
     }
 
     public void OpenRibbonCable()
