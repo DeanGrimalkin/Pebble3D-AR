@@ -15,17 +15,14 @@ EditorBuildSettings:
     path: Assets/Scenes/UltimakerS3.unity
     guid: c851ed602dd3717498368423165911e5
   - enabled: 1
-    path: Assets/Scenes/UltimakerS5 Old.unity
-    guid: 83e9b393ea90fe549a6f8fe9f4beb4b0
+    path: Assets/Scenes/UltimakerS5.unity
+    guid: 927a80bdb28e6aa4c819d877f4be437b
   - enabled: 1
     path: Assets/Scenes/Raise3D N2.unity
-    guid: d195e71dc552a18449149e7c25b9f47d
+    guid: bc5c7ea7e6c8aaa48b4f3bf75ed3978f
   - enabled: 1
     path: Assets/Scenes/Raise3D N2Plus.unity
-    guid: ed295b77b64485e4d9a6d6da94400a1f
-  - enabled: 1
-    path: Assets/Scenes/UltimakerS5 C.unity
-    guid: b4b904c7e9e4dcd4c931f89a250712cd
+    guid: bb4f2c1b557894a44abd412340f8c0e8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d3176631432fc9d4da2dfba0d62bc508,
       type: 2}
