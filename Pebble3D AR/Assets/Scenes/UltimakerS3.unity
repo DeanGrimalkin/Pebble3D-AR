@@ -12587,13 +12587,14 @@ MonoBehaviour:
     type.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 825554ea6f7764b48953ffe57d9b30f1, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -4733951619563608349, guid: 825554ea6f7764b48953ffe57d9b30f1,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
+    rgba: 4286802000
   m_fontColor: {r: 0.3137255, g: 0.40784314, b: 0.5137255, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -24194,8 +24195,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.00018310547, y: -37.999954}
-  m_SizeDelta: {x: 500, y: 75}
+  m_AnchoredPosition: {x: -0.00018310547, y: -58}
+  m_SizeDelta: {x: 500, y: 110}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1244267881
 MonoBehaviour:
@@ -28949,7 +28950,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294925056
+    rgba: 4294945280
   m_fontColor: {r: 0, g: 0.6666667, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -32432,13 +32433,14 @@ MonoBehaviour:
 '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 825554ea6f7764b48953ffe57d9b30f1, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: -4733951619563608349, guid: 825554ea6f7764b48953ffe57d9b30f1,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
+    rgba: 4286802000
   m_fontColor: {r: 0.3137255, g: 0.40784314, b: 0.5137255, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -36459,7 +36461,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1523831759}
+      - m_Target: {fileID: 1706383787}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
