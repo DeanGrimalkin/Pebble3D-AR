@@ -55,7 +55,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: E1_N2PLUS
+  m_Name: E3_N2PLUS
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
