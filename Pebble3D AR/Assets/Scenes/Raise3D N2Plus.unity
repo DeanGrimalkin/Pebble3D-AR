@@ -36585,7 +36585,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &965377702
 RectTransform:
   m_ObjectHideFlags: 0
@@ -36594,7 +36594,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 965377701}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -16.76}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 433777978}
@@ -36602,8 +36602,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -6, y: -144.5}
-  m_SizeDelta: {x: -52, y: -551}
+  m_AnchoredPosition: {x: -6, y: -116.025024}
+  m_SizeDelta: {x: -52, y: -494.0499}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &965377703
 MonoBehaviour:
@@ -36651,7 +36651,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 576364984}
         m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
-        m_MethodName: OpenER31Link
+        m_MethodName: OpenRibbonCable
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -46116,7 +46116,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1118407686}
+      - m_Target: {fileID: 1075298971}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -46138,7 +46138,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1523831759}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -46174,7 +46174,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1220777280}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -46234,7 +46234,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1489968651}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
@@ -46246,7 +46246,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1400572523}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
@@ -48429,7 +48429,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1706383787}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -48453,7 +48453,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1220777280}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -71716,7 +71716,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1854777630
 RectTransform:
   m_ObjectHideFlags: 0
@@ -71782,7 +71782,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 576364984}
         m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
-        m_MethodName: OpenER29Link
+        m_MethodName: OpenThermocouple
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -72386,7 +72386,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1871421834
 RectTransform:
   m_ObjectHideFlags: 0
@@ -72452,7 +72452,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 576364984}
         m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
-        m_MethodName: OpenER34Link
+        m_MethodName: OpenRibbonCable
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -75323,7 +75323,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1915805554
 RectTransform:
   m_ObjectHideFlags: 0
@@ -75389,7 +75389,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 576364984}
         m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
-        m_MethodName: OpenER39Link
+        m_MethodName: OpenRibbonCable
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -77093,7 +77093,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1118407686}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -77105,7 +77105,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1220777280}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -81528,7 +81528,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2058210514
 RectTransform:
   m_ObjectHideFlags: 0
@@ -81594,7 +81594,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 576364984}
         m_TargetAssemblyTypeName: OpenURL, Assembly-CSharp
-        m_MethodName: OpenER27Link
+        m_MethodName: RemoveWires
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

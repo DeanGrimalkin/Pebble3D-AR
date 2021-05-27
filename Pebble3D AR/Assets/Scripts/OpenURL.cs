@@ -68,7 +68,10 @@ public class OpenURL : MonoBehaviour
     {
         Application.OpenURL("https://support.ultimaker.com/hc/en-us/articles/360011706279-ER80-Expected-Air-Manager-is-missing");
     }
-
+    public void RemoveWires()
+    {
+        Application.OpenURL("https://support.raise3d.com/N2-N2-Plus/how-to-replace-the-extruder-board-3-930.html");
+    }
     public void OpenRibbonCable()
     {
         Application.OpenURL("https://support.raise3d.com/Pro2-Series/how-to-replace-the-ribbon-cable-4-351.html");
@@ -76,6 +79,6 @@ public class OpenURL : MonoBehaviour
 
     public void OpenThermocouple()
     {
-        Application.OpenURL("https://support.raise3d.com/E2/how-to-replace-the-thermocouple-20-1343.html");
+        Application.OpenURL("https://support.raise3d.com/list.html?cid=3&pid=493");
     }
 }
